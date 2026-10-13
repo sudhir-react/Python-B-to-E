@@ -20,3 +20,5 @@ print(arr[0])  # 10
 print(arr[1])  # 20
 print(arr[2])  # 30
 print(arr[3])  # 40
+print(arr[4])  # 50
+# print(arr[5])  # list index out of range
