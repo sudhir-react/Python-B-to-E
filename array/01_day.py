@@ -22,3 +22,16 @@ print(arr[2])  # 30
 print(arr[3])  # 40
 print(arr[4])  # 50
 # print(arr[5])  # list index out of range
+
+# If an array has n elements:"First index = 0" & "Last index  = n - 1"
+
+# Accessing the Last Element==> arr[-1]
+
+print(arr[-1])
+
+"""Index:    0    1    2    3    4
+            -5   -4   -3   -2   -1
+    Value:   10   20   30   40   50
+"""
+
+# Changing an Array Element
